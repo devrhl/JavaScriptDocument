@@ -1,0 +1,2 @@
+# JavaScriptDocument
+JavaScript文档
